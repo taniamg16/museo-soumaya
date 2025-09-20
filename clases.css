@@ -1,0 +1,12 @@
+.container-fluid {
+  padding-left: 8rem;  
+  padding-right: 8rem;
+  padding-top: .5rem;
+  padding-bottom: .2rem;
+
+}
+
+.nav-link {
+    padding-left: 2rem;  
+    padding-right: 2rem;
+}
