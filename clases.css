@@ -1,12 +1,14 @@
-.container-fluid {
-  padding-left: 8rem;  
-  padding-right: 8rem;
-  padding-top: .5rem;
-  padding-bottom: .2rem;
-
+.oferta-img{
+  width:100%;
+  height:300px;        /* móvil */
+  object-fit:cover;
+  display:block;
+  margin-inline:auto;  
+}
+@media (min-width:768px){  /* md */
+  .oferta-img{ height:240px; }
+}
+@media (min-width:992px){  /* lg */
+  .oferta-img{ width:90%; height:450px; } /* más aire en escritorio */
 }
 
-.nav-link {
-    padding-left: 2rem;  
-    padding-right: 2rem;
-}
