@@ -60,6 +60,6 @@ Después de unos segundos, tu sitio estará disponible en:
 `https://TU_USUARIO.github.io/NOMBRE_DEL_REPOSITORIO/`
 
 ### Link página web desplegada
-`https://taniamg16.github.io/museo-soumaya/`
+``
 
 
