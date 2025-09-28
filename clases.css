@@ -1,0 +1,56 @@
+.oferta-img{
+  width:100%;
+  height:300px;        
+  object-fit:cover;
+  display:block;
+  margin-inline:auto;  
+}
+
+@media (max-width: 991px) { 
+    .navbar-collapse {
+      background-color: white !important;
+      padding: 1rem; 
+    }
+
+    .navbar-collapse .nav-link {
+      color: #000 !important; 
+    }
+}
+
+@media (min-width:768px){  
+  .oferta-img{ height:240px; }
+}
+@media (min-width:992px){  
+  .oferta-img{ width:90%; height:450px; } 
+}
+
+.testimonio{
+  min-height: 25vh;                 
+  background-image: url("https://www.museo-soumaya.org/wp-content/uploads/2025/06/the-museo-soumaya-in-mexico-city-6068017.jpeg");
+  background-size: cover;
+  background-position: center;
+}
+
+.actividades{
+  min-height: 25vh;                 
+  background-image: url("https://www.museo-soumaya.org/wp-content/uploads/2025/06/stylish-models-at-soumaya-museum-mexico-city-30115093-1024x686.jpeg");
+  background-size: cover;
+  background-position: center;
+}
+
+.fotito{ width:96px; height:96px; object-fit:cover; border:3px solid rgba(255,255,255,.7); }
+
+@media (min-width: 768px){
+  .fotito{ width:112px; height:112px; }
+  
+}
+
+.img-cuadrada {
+  width: 500px;     
+  height: 500px;    
+  object-fit: cover; 
+}
+
+html, body {
+  overflow-x: hidden;
+}
