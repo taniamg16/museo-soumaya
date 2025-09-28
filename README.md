@@ -4,6 +4,7 @@ Esta es una imitación del sitio web del Museo Soumaya, hecho con html y CSS. Se
 ## Índice
 - [Comandos utilizados](#comandos-utilizados)
 - [Pull requests](#pull-requests)
+- [Despliegue de la página a GitHub Pages](#despliegue-de-la-página-a-github-pages)
 
 
 ## Comandos utilizados
@@ -37,13 +38,28 @@ git push
 ```
 
 
-# Pull requests
+## Pull requests
 Solicitud para que los cambios que hiciste en tu rama de un repositorio sean revisados e integrados en otra rama (main). En este proyecto, se hicimos dos. A continuación, se incluyen sus links: 
 
-## Link pull request código
-## Link pull request evidencias
+### Link pull request código
+`https://github.com/taniamg16/museo-soumaya/pull/1`
+### Link pull request evidencias
 
-## Link página web desplegada
+## Despliegue de la página a GitHub Pages
 
+**GitHub Pages** es un servicio gratuito de GitHub que te permite publicar sitios web directamente desde un repositorio, sin necesidad de un servidor propio.
+
+### Pasos para el despliegue
+
+1. En GitHub, abre tu **repositorio**.  
+2. Haz clic en **Settings** --> **Pages**.  
+3. En la sección **Branch**, selecciona la **rama de trabajo** (en este caso, `ramaTrabajo`).  
+4. Da clic en **Save**.  
+
+Después de unos segundos, tu sitio estará disponible en:  
+`https://TU_USUARIO.github.io/NOMBRE_DEL_REPOSITORIO/`
+
+### Link página web desplegada
+`https://taniamg16.github.io/museo-soumaya/`
 
 
