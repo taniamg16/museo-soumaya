@@ -5,6 +5,18 @@
   display:block;
   margin-inline:auto;  
 }
+
+@media (max-width: 991px) { 
+    .navbar-collapse {
+      background-color: white !important;
+      padding: 1rem; 
+    }
+
+    .navbar-collapse .nav-link {
+      color: #000 !important; 
+    }
+}
+
 @media (min-width:768px){  
   .oferta-img{ height:240px; }
 }
@@ -37,4 +49,8 @@
   width: 500px;     
   height: 500px;    
   object-fit: cover; 
+}
+
+html, body {
+  overflow-x: hidden;
 }
