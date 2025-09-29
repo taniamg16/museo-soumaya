@@ -45,7 +45,7 @@ Solicitud para que los cambios que hiciste en tu rama de un repositorio sean rev
 ### Link pull request código
 `https://github.com/taniamg16/museo-soumaya/pull/1`
 ### Link pull request evidencias
-https://github.com/taniamg16/museo-soumaya/pull/2
+`https://github.com/taniamg16/museo-soumaya/pull/2`
 
 ## Despliegue de la página a GitHub Pages
 
