@@ -5,6 +5,7 @@ Esta es una imitación del sitio web del Museo Soumaya, hecho con html y CSS. Se
 - [Comandos utilizados](#comandos-utilizados)
 - [Pull requests](#pull-requests)
 - [Despliegue de la página a GitHub Pages](#despliegue-de-la-página-a-github-pages)
+- [Evidencias Responsividad](#enlace-a-los-videos-de-evidencia)
 
 
 ## Comandos utilizados
@@ -44,6 +45,7 @@ Solicitud para que los cambios que hiciste en tu rama de un repositorio sean rev
 ### Link pull request código
 `https://github.com/taniamg16/museo-soumaya/pull/1`
 ### Link pull request evidencias
+https://github.com/taniamg16/museo-soumaya/pull/2
 
 ## Despliegue de la página a GitHub Pages
 
