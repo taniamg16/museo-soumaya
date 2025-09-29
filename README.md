@@ -5,6 +5,7 @@ Esta es una imitación del sitio web del Museo Soumaya, hecho con html y CSS. Se
 - [Comandos utilizados](#comandos-utilizados)
 - [Pull requests](#pull-requests)
 - [Despliegue de la página a GitHub Pages](#despliegue-de-la-página-a-github-pages)
+- [Evidencias Responsividad](#enlace-a-los-videos-de-evidencia)
 
 
 ## Comandos utilizados
