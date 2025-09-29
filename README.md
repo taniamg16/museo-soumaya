@@ -60,6 +60,20 @@ Después de unos segundos, tu sitio estará disponible en:
 `https://TU_USUARIO.github.io/NOMBRE_DEL_REPOSITORIO/`
 
 ### Link página web desplegada
-``
+`https://taniamg16.github.io/museo-soumaya/`
+
+
+## Evidencias Responsividad
+En el siguiente enlace de OneDrive, se encuentran los videos de lo siguiente:
+1. Prueba en iPad Pro
+2. Prueba en iPad Mini
+3. Prueba eb Galaxy S8+
+4. Prueba en Escritorio
+
+En cada video, se muestra lado al lado la página creada con la página original, para mostrar su funcionamiento.
+El enlace a la página original es: `https://www.museo-soumaya.org/`
+
+### Enlace a los Videos de Evidencia
+`https://itam2-my.sharepoint.com/:f:/g/personal/tmendoz4_itam_mx/EjV6duwLzKZEj5ZCnpTMyA4BeDGoTUoLKgynOl7SaDwZ6w?e=lbBxTe`
 
 
